@@ -1,2 +1,2 @@
-# AsoulOpt v15.1
-优化Unity游戏读图速度
+# AsoulOpt v15.2
+添加和平精英支持

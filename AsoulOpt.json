@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "version": "v15.1 (18)",
-  "zipUrl": "https://cdn.jsdelivr.net/gh/nakixii/Magisk_AsoulOpt/Magisk_AsoulOpt_v15.1.zip",
-  "changelog": "https://cdn.jsdelivr.net/gh/nakixii/Magisk_AsoulOpt/changelog.md"
+  "versionCode": 19,
+  "version": "v15.2 (19)",
+  "zipUrl": "https://github.com/nakixii/Magisk_AsoulOpt/releases/download/19/Magisk_AsoulOpt_v15.2.zip",
+  "changelog": "https://github.com/nakixii/Magisk_AsoulOpt/raw/main/changelog.md"
 }
