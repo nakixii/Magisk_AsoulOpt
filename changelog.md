@@ -1,2 +1,2 @@
-# AsoulOpt v16.1
-添加崩坏3部分渠道服支持，CODM支持
+# AsoulOpt v16.2
+支持黎明杀机
