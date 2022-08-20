@@ -1,1 +1,1 @@
-适配 EVE Echoes
+修复 Android 13 不生效
