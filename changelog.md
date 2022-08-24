@@ -1,1 +1,1 @@
-优化 稳定性
+适配 无期迷途，球球大作战，BATTLEGROUNDS MOBILE INDIA
