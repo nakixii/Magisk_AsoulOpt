@@ -22,18 +22,19 @@ Android游戏线程调整程序，支持主流游戏，当然也支持一些小�
 - 现代战舰
 - 香肠派对
 - 无期迷途
-- 黎明前20分钟
 - 云顶之弈
 - 东方弹幕神乐
 - BanG Dream! 少女乐团派对!
 - Muse Dash
 - 元气骑士
 - 我的勇者
+- ICEY
 - 原神（包含国际/渠道服）
 - 碧蓝航线
 - Phigros
 - 深空之眼
 - 球球大作战
+- 黎明前20分钟（包含国际服）
 - 和平精英
 - PUBG Mobile
 - BATTLEGROUNDS MOBILE INDIA
