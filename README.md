@@ -65,6 +65,8 @@ Android游戏线程调整程序，支持主流游戏，当然也支持一些小�
 - Roblox
 - NBA2K20
 - 未知：升变
+- 坦克世界闪击战（包含国际/渠道服）
+- Age of History II
 - 王牌竞速
 - 猎魂觉醒（包含渠道服）
 - EVE Echoes
