@@ -10,6 +10,7 @@ Android游戏线程调整程序，支持主流游戏，当然也支持一些小�
 ## 游戏列表
 - Sword Art Online
 - BanG Dream! 少女乐团派对!
+- Love Live! School idol festival 2 MIRACLE LIVE!
 - 元气骑士
 - 东方弹幕神乐
 - ICEY
@@ -41,6 +42,7 @@ Android游戏线程调整程序，支持主流游戏，当然也支持一些小�
 - QQ飞车
 - 天涯明月刀
 - 无期迷途
+- バンドリ！ ガールズバンドパーティ！
 - Master Duel
 - Phigros（包含国际/渠道服）
 - MMD UNITY
@@ -68,11 +70,12 @@ Android游戏线程调整程序，支持主流游戏，当然也支持一些小�
 - KartRider: Drift
 - 未来之役
 - 暗区突围
-- 火炬之光：无限
+- 火炬之光：无限（包含国际服）
 - Rush Rally 3
 - 狂野飙车9（包含渠道服）
 - 重生细胞（包含渠道服）
-- 起源SDK
+- CSWGS
+- Source
 - 世界弹射物语（包含国际/渠道服）
 - Minecraft
 - Roblox
