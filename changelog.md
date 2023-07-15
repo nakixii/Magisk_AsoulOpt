@@ -1,2 +1,7 @@
-适配 Love Live! School idol festival 2 MIRACLE LIVE!，バンドリ！ ガールズバンドパーティ，火炬之光：无限 国服，CSWGS  
-修复 严重问题
+A.24，事AsoulOpt  
+  
+适配以下游戏  
+- 蔚蓝档案（国服）  
+- 重返未来：1999  
+- Rainbow Six Mobile  
+- COD Warzone
