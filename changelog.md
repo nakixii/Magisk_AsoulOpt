@@ -1,7 +1,9 @@
-A.24，事AsoulOpt  
+修复 部分三星手机卡死  
   
 适配以下游戏  
-- 蔚蓝档案（国服）  
-- 重返未来：1999  
-- Rainbow Six Mobile  
-- COD Warzone
+- Standoff 2  
+- 高能英雄  
+- 暗影之枪：传奇  
+- Project Snow  
+- Farlight 84  
+- 跑跑卡丁车
