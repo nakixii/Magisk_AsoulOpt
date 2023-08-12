@@ -5,16 +5,18 @@ Game threads tweaker for Android, supports mainstream games, also supports some 
 ## 注意事项 / Notes
 - 可能会被某些负优化影响，导致无法使用某些CPU核心
 - 通常不会与第三方调度冲突
-- 如果你玩的游戏未在列表中，并且你拥有调试的耐心以及充足的知识储备，可发送邮件到`nakixii@gmail.com`申请参加调试。必须提供 Scene 6 帧率记录以及帧率记录最下方的线程负载统计截图。**无截图的邮件不回复。**
+- 如果你玩的游戏未在列表中，并且你拥有调试的耐心以及充足的知识储备，可发送邮件到`nakixii@gmail.com`申请参加调试。必须提供 Scene 6 帧率记录内的线程负载统计截图以及游戏包名。**无截图的邮件不回复。**
   
 - May be affected by some "optimizations", causing some CPU cores to be parked
 - Usually does not conflict with third-party optimizers
-- If the game you play is not on the list, and you have the patience and knowledge to debug, you can send an email to `nakixii@gmail.com` to apply for debugging. Scene 6 fps records and screenshots of thread statistics at the bottom of the records must be provided. **Emails without screenshots will not be replied.**
+- If the game you play is not on the list, and you have the patience and knowledge to debug, you can send an email to `nakixii@gmail.com` to apply for debugging. A screenshot of the thread statistics in the Scene 6 fps record and the package name of the game must be provided. **Emails without screenshots will not be replied.**
 
 ## 支持的游戏 / Supported games
+- Albion Online
 - Standoff 2
 - Sword Art Online
 - BanG Dream! 少女乐团派对!
+- 环行旅舍
 - Love Live! School idol festival 2 MIRACLE LIVE!
 - 元气骑士
 - 东方弹幕神乐
@@ -32,6 +34,7 @@ Game threads tweaker for Android, supports mainstream games, also supports some 
 - 崩坏3（包含国际/渠道服）
 - 崩坏：星穹铁道（包含国际服）
 - 原神（包含国际/渠道服）
+- 游戏王：决斗链接
 - 蔚蓝档案（包含国际/渠道服）
 - 强袭人形：原体
 - Muse Dash
@@ -52,8 +55,10 @@ Game threads tweaker for Android, supports mainstream games, also supports some 
 - 无期迷途
 - バンドリ！ ガールズバンドパーティ！
 - Master Duel
+- Cytoid
 - Call of Duty Mobile
 - 碧蓝航线
+- 命运-冠位指定
 - 黎明前20分钟（包含国际服）
 - Dungeon Defense
 - 雀姬（包含国际/渠道服）
@@ -69,6 +74,7 @@ Game threads tweaker for Android, supports mainstream games, also supports some 
 - BATTLEGROUNDS MOBILE INDIA
 - PUBG Mobile KR
 - PUBG Mobile TW
+- PUBG Mobile VN
 - PUBG Mobile
 - 和平精英
 - 堡垒之夜
@@ -96,6 +102,7 @@ Game threads tweaker for Android, supports mainstream games, also supports some 
 - 明日之后（包含渠道服）
 - 阴阳师（包含渠道服）
 - 蛋仔派对
+- 荒野乱斗
 - 部落冲突（包含国际/渠道服）
 - 猎魂觉醒（包含渠道服）
 - 决战！平安京

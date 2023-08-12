@@ -1,9 +1,10 @@
-修复 部分三星手机卡死  
+优化 和平精英  
   
 适配以下游戏  
-- Standoff 2  
-- 高能英雄  
-- 暗影之枪：传奇  
-- Project Snow  
-- Farlight 84  
-- 跑跑卡丁车
+- Cytoid  
+- PUBG Mobile VN  
+- 环行旅舍  
+- 游戏王：决斗链接  
+- Albion Online  
+- 荒野乱斗  
+- 命运-冠位指定
