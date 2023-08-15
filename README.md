@@ -33,7 +33,6 @@ Game threads tweaker for Android, supports mainstream games, also supports some 
 - 暗影之枪：传奇
 - 崩坏3（包含国际/渠道服）
 - 崩坏：星穹铁道（包含国际服）
-- 原神（包含国际/渠道服）
 - 游戏王：决斗链接
 - 蔚蓝档案（包含国际/渠道服）
 - 强袭人形：原体
@@ -68,6 +67,7 @@ Game threads tweaker for Android, supports mainstream games, also supports some 
 - Rainbow Six Mobile
 - 深空之眼
 - MMD UNITY
+- 原神（包含国际/渠道服）
 - 球球大作战
 - 黎明杀机
 - 黎明觉醒：生机
@@ -102,7 +102,7 @@ Game threads tweaker for Android, supports mainstream games, also supports some 
 - 明日之后（包含渠道服）
 - 阴阳师（包含渠道服）
 - 蛋仔派对
-- 荒野乱斗
+- 荒野乱斗（包含国际/渠道服）
 - 部落冲突（包含国际/渠道服）
 - 猎魂觉醒（包含渠道服）
 - 决战！平安京
