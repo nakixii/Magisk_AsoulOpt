@@ -69,14 +69,14 @@ Game threads tweaker for Android, supports mainstream games, also supports some 
 - MMD UNITY
 - 原神（包含国际/渠道服）
 - 球球大作战
-- 黎明杀机
-- 黎明觉醒：生机
 - BATTLEGROUNDS MOBILE INDIA
 - PUBG Mobile KR
 - PUBG Mobile TW
 - PUBG Mobile VN
 - PUBG Mobile
 - 和平精英
+- 黎明杀机
+- 黎明觉醒：生机
 - 堡垒之夜
 - 幻塔（包含国际/渠道服）
 - 巅峰极速
@@ -86,8 +86,11 @@ Game threads tweaker for Android, supports mainstream games, also supports some 
 - 未来之役
 - 暗区突围
 - 火炬之光：无限（包含国际服）
-- NBA2K20
 - 世界弹射物语（包含国际/渠道服）
+- NBA2K20
+- COD Warzone
+- Roblox
+- 高能英雄
 - Rush Rally 3
 - 重生细胞（包含渠道服）
 - CSWGS
@@ -95,22 +98,19 @@ Game threads tweaker for Android, supports mainstream games, also supports some 
 - Minecraft
 - 未知：升变
 - 狂野飙车9（包含渠道服）
-- 王牌竞速
+- 王牌竞速（包含渠道服）
+- 猎魂觉醒（包含渠道服）
 - 第五人格（包含渠道服）
-- EVE Echoes
+- 星战前夜：无烬星河（包含国际/渠道服）
 - 无尽的拉格朗日
-- 明日之后（包含渠道服）
-- 阴阳师（包含渠道服）
-- 蛋仔派对
+- 决战！平安京（包含渠道服）
+- 明日之后（包含国际/渠道服）
+- 阴阳师（包含国际/渠道服）
+- 蛋仔派对（包含国际/渠道服）
 - 荒野乱斗（包含国际/渠道服）
 - 部落冲突（包含国际/渠道服）
-- 猎魂觉醒（包含渠道服）
-- 决战！平安京
-- COD Warzone
 - 机动都市阿尔法（包含国际/渠道服）
 - Sky光·遇（包含国际/渠道服）
-- Roblox
-- 高能英雄
 - Age of History II
 - 猫和老鼠（包含国际/渠道服）
 - 坦克世界闪击战（包含国际/渠道服）
