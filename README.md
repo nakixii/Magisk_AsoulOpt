@@ -17,11 +17,13 @@ Game threads tweaker for Android, supports mainstream games, also supports some 
 - Sword Art Online
 - BanG Dream! 少女乐团派对!
 - 环行旅舍
+- D4DJ
 - Love Live! School idol festival 2 MIRACLE LIVE!
 - 元气骑士
 - 东方弹幕神乐
 - 灌篮高手
 - ICEY
+- Call of Duty
 - 传说对决
 - 零灵：天运防线
 - 风色幻想：命运传说
@@ -35,7 +37,7 @@ Game threads tweaker for Android, supports mainstream games, also supports some 
 - 崩坏：星穹铁道（包含国际服）
 - 游戏王：决斗链接
 - 蔚蓝档案（包含国际/渠道服）
-- 强袭人形：原体
+- 天下布魔（包含国际服）
 - Muse Dash
 - 我的勇者
 - 云顶之弈
@@ -51,6 +53,7 @@ Game threads tweaker for Android, supports mainstream games, also supports some 
 - QQ飞车
 - 跑跑卡丁车官方竞速版
 - 天涯明月刀
+- 强袭人形：原体（包含国际服）
 - 无期迷途
 - バンドリ！ ガールズバンドパーティ！
 - Master Duel
@@ -88,9 +91,10 @@ Game threads tweaker for Android, supports mainstream games, also supports some 
 - 火炬之光：无限（包含国际服）
 - 世界弹射物语（包含国际/渠道服）
 - NBA2K20
-- COD Warzone
 - Roblox
 - 高能英雄
+- DYSMANTLE
+- COD Warzone
 - Rush Rally 3
 - 重生细胞（包含渠道服）
 - CSWGS
@@ -112,6 +116,8 @@ Game threads tweaker for Android, supports mainstream games, also supports some 
 - 机动都市阿尔法（包含国际/渠道服）
 - Sky光·遇（包含国际/渠道服）
 - Age of History II
+- 中国象棋
+- 剑与远征
 - 猫和老鼠（包含国际/渠道服）
 - 坦克世界闪击战（包含国际/渠道服）
 - 网易我的世界
