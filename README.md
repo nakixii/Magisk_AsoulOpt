@@ -53,7 +53,9 @@ Game threads tweaker for Android, supports mainstream games, also supports some 
 - QQ飞车
 - 跑跑卡丁车官方竞速版
 - 天涯明月刀
+- Rotaeno
 - 强袭人形：原体（包含国际服）
+- 球球大作战
 - 无期迷途
 - バンドリ！ ガールズバンドパーティ！
 - Master Duel
@@ -71,7 +73,6 @@ Game threads tweaker for Android, supports mainstream games, also supports some 
 - 深空之眼
 - MMD UNITY
 - 原神（包含国际/渠道服）
-- 球球大作战
 - BATTLEGROUNDS MOBILE INDIA
 - PUBG Mobile KR
 - PUBG Mobile TW
@@ -82,7 +83,7 @@ Game threads tweaker for Android, supports mainstream games, also supports some 
 - 黎明觉醒：生机
 - 堡垒之夜
 - 幻塔（包含国际/渠道服）
-- 巅峰极速
+- 巅峰极速（包含国际/渠道服）
 - 尘白禁区
 - Farlight 84
 - KartRider: Drift
@@ -95,6 +96,7 @@ Game threads tweaker for Android, supports mainstream games, also supports some 
 - 高能英雄
 - DYSMANTLE
 - COD Warzone
+- 少女前线2：追放
 - Rush Rally 3
 - 重生细胞（包含渠道服）
 - CSWGS
