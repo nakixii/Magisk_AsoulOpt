@@ -5,15 +5,16 @@ Game threads tweaker for Android, supports mainstream games, also supports some 
 ## 注意事项 / Notes
 - 可能会被某些负优化影响，导致无法使用某些CPU核心
 - 通常不会与第三方调度冲突
-- 如果你玩的游戏未在列表中，并且你拥有调试的耐心以及充足的知识储备，可发送邮件到`nakixii@gmail.com`申请参加调试。必须提供 Scene 6 帧率记录内的线程负载统计截图以及游戏包名。**无截图的邮件不回复。**
+- 如果你玩的游戏未在列表中，并且你拥有调试的耐心以及充足的知识储备，可发送邮件到`nakixii@gmail.com`申请参加调试。必须提供 Scene 6 帧率记录内的线程负载统计截图以及游戏包名。**无完整信息的邮件无效。**
   
 - May be affected by some "optimizations", causing some CPU cores to be parked
 - Usually does not conflict with third-party optimizers
-- If the game you play is not on the list, and you have the patience and knowledge to debug, you can send an email to `nakixii@gmail.com` to apply for debugging. A screenshot of the thread statistics in the Scene 6 fps record and the package name of the game must be provided. **Emails without screenshots will not be replied.**
+- If the game you play is not on the list, and you have the patience and knowledge to debug, you can send an email to `nakixii@gmail.com` to apply for debugging. A screenshot of the thread statistics in the Scene 6 fps record and the package name of the game must be provided. **Emails without complete information are invalid.**
 
 ## 支持的游戏 / Supported games
 - Albion Online
 - Standoff 2
+- アイドルマスター ミリオンライブ！ シアターデイズ
 - Sword Art Online
 - BanG Dream! 少女乐团派对!
 - 环行旅舍
@@ -22,6 +23,7 @@ Game threads tweaker for Android, supports mainstream games, also supports some 
 - 元气骑士
 - 东方弹幕神乐
 - 灌篮高手
+- 宿命回响：弦上的叹息（包含渠道服）
 - ICEY
 - Call of Duty
 - 传说对决
@@ -36,6 +38,7 @@ Game threads tweaker for Android, supports mainstream games, also supports some 
 - 崩坏3（包含国际/渠道服）
 - 崩坏：星穹铁道（包含国际服）
 - 游戏王：决斗链接
+- 逆水寒
 - 蔚蓝档案（包含国际/渠道服）
 - 天下布魔（包含国际服）
 - Muse Dash
@@ -44,6 +47,7 @@ Game threads tweaker for Android, supports mainstream games, also supports some 
 - 霓虹深渊：无限
 - 现代战舰
 - 香肠派对
+- 斗罗大陆：魂师对决（包含国际/渠道服）
 - 金铲铲之战
 - 火影忍者
 - 英雄联盟手游（包含国际服）
@@ -57,6 +61,7 @@ Game threads tweaker for Android, supports mainstream games, also supports some 
 - 强袭人形：原体（包含国际服）
 - 球球大作战
 - 无期迷途
+- アイドルマスター シンデレラガールズ スターライトステージ
 - バンドリ！ ガールズバンドパーティ！
 - Master Duel
 - Cytoid
