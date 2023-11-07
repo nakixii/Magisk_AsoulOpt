@@ -1,1 +1,1 @@
-优化 Snapdragon 8G3
+修复 放置失效
