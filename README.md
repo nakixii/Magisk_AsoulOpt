@@ -16,6 +16,7 @@ Game threads tweaker for Android, supports mainstream games, also supports some 
 - Standoff 2
 - アイドルマスター ミリオンライブ！ シアターデイズ
 - Sword Art Online
+- アイドルマスターシャイニーカラーズ
 - BanG Dream! 少女乐团派对!
 - 环行旅舍
 - D4DJ
