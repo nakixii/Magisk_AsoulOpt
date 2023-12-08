@@ -5,11 +5,11 @@ Game threads tweaker for Android, supports mainstream games, also supports some 
 ## 注意事项 / Notes
 - 可能会被某些负优化影响，导致无法使用某些CPU核心
 - 通常不会与第三方调度冲突
-- 如果你玩的游戏未在列表中，并且你拥有调试的耐心以及充足的知识储备，可发送邮件到`nakixii@gmail.com`申请参加调试。必须提供 Scene 6 帧率记录内的线程负载统计截图以及游戏包名。**无完整信息的邮件无效。**
+- 如果你玩的游戏未在列表中，并且你拥有调试的耐心以及充足的知识储备，可发送邮件到`nakixii@gmail.com`申请参加调试。必须提供 Scene 6/7 帧率记录内的线程负载统计截图以及游戏包名。**无完整信息的邮件无效。**
   
 - May be affected by some "optimizations", causing some CPU cores to be parked
 - Usually does not conflict with third-party optimizers
-- If the game you play is not on the list, and you have the patience and knowledge to debug, you can send an email to `nakixii@gmail.com` to apply for debugging. A screenshot of the thread statistics in the Scene 6 fps record and the package name of the game must be provided. **Emails without complete information are invalid.**
+- If the game you play is not on the list, and you have the patience and knowledge to debug, you can send an email to `nakixii@gmail.com` to apply for debugging. A screenshot of the thread statistics in the Scene 6/7 fps record and the package name of the game must be included. **Emails without complete information are invalid.**
 
 ## 支持的游戏 / Supported games
 - Albion Online
@@ -58,7 +58,7 @@ Game threads tweaker for Android, supports mainstream games, also supports some 
 - QQ飞车
 - 跑跑卡丁车官方竞速版
 - 天涯明月刀
-- Rotaeno
+- 旋转音律Rotaeno（包含国际服）
 - 强袭人形：原体（包含国际服）
 - 球球大作战
 - 无期迷途
