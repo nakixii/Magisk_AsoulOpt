@@ -132,7 +132,3 @@ Game threads tweaker for Android, supports mainstream games, also supports some 
 - アイドルマスター ミリオンライブ！ シアターデイズ
 - アイドルマスターシャイニーカラーズ
 - バンドリ！ ガールズバンドパーティ！
-
-## 致谢
-感谢以下用户的源码对本项目的帮助：  
-[@yc9559](https://github.com/yc9559)
