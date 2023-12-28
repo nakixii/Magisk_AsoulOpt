@@ -79,6 +79,7 @@ Game threads tweaker for Android, supports mainstream games, also supports some 
 - 无期迷途
 - 现代战舰
 - 香肠派对
+- 星球：重启（包含渠道服）
 - 星战前夜：无烬星河（包含国际/渠道服）
 - 旋转音律Rotaeno（包含国际服）
 - 阴阳师（包含国际/渠道服）
@@ -132,3 +133,4 @@ Game threads tweaker for Android, supports mainstream games, also supports some 
 - アイドルマスター ミリオンライブ！ シアターデイズ
 - アイドルマスターシャイニーカラーズ
 - バンドリ！ ガールズバンドパーティ！
+- プロセカ
