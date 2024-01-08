@@ -1,3 +1,12 @@
+Update:  
+When @tryigitx found out that I was able to make more people know about what he had done, he unblocked me and sent a few messages.  
+  
+But just as I said, the things you have done won't disappear, and it is time for you to taste this too😁  
+  
+PlEaSe ReMeMbEr, NO DM! DM = BLOCK!!!🤪  
+Btw I initially sent messages in his group, but he just deleted my messages. So, what else can I do next? Maybe I should leave him alone🤔  
+  
+  
 I'm here to introduce you the greatest thief @tryigitx !  
 So, what did he do?  
   
