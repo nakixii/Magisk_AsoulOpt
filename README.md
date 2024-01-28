@@ -1,46 +1,13 @@
-Update:  
-When @tryigitx found out that I was able to make more people know about what he had done, he unblocked me and sent a few messages.  
-  
-But just as I said, the things you have done won't disappear, and it is time for you to taste this too😁  
-  
-PlEaSe ReMeMbEr, NO DM! DM = BLOCK!!!🤪  
-Btw I initially sent messages in his group, but he just deleted my messages. So, what else can I do next? Maybe I should leave him alone🤔  
-  
-  
-I'm here to introduce you the greatest thief @tryigitx !  
-So, what did he do?  
-  
-1. He kept stealing FAS-RS module from @shadow3aaa without any permission, and pretended to be co-developed with shadow.  
-In fact, he hasn't developed any kind of project, just because he is not able to.  
-  
-From his homepage (https://linktr.ee/tryigitx), we can see he is an eXpErT! lmfao🤣🤣  
-I just can't imagine how can a real expert do these things. If @tryigitx is a real expert, pLeAsE fOrGiVe Me😭😭  
-  
-2. He also stole other modules, like "Play Integrity Fix".  
-He copied it and changed the author to his own, but that's not all.  
-  
-Maybe it's some kind of self-deception, he also changed the name to "China Play Integrity Fix".  
-He seemed to want to express that this is for China Version ROMs, but everyone can see what he really wanted to do.  
-  
-3. When I joined his group, and asked him why he did these, he chose to delete my messages directly.  
-Even then, he removed me from the group and blocked me.  
-  
-I just don’t get what the point of him doing this is, because it can’t hide that he has done these things.  
-  
-Now that you've all seen these, make your own judgment based on your own values.  
-  
 # AsoulOpt
-Android游戏线程调整程序，支持主流游戏，也支持一些小众游戏  
-Game threads tweaker for Android, supports mainstream games, also supports some niche games
+Android游戏线程调整程序，适用于主流游戏以及一些小众游戏
+Game threads tweaker for Android, suitable for mainstream games and some niche games
 
 ## 注意事项 / Notes
-- 可能会被某些负优化影响，导致无法使用某些CPU核心
-- 通常不会与第三方调度冲突
-- 如果你玩的游戏未在列表中，并且你拥有调试的耐心以及充足的知识储备，可发送邮件到`nakixii@gmail.com`申请参加调试。必须提供 Scene 6/7 帧率记录内的线程负载统计截图以及游戏包名。**无完整信息的邮件无效。**
+- 可能会被某些负优化影响，通常不会与第三方调度冲突
+- 如果你玩的游戏未在列表中，并且你拥有调试的耐心以及充足的知识储备，可发送邮件到`nakixii@gmail.com`申请参加调试。必须提供 Scene 7 帧率记录内的线程负载统计截图以及游戏包名。**无完整信息的邮件无效。**
   
-- May be affected by some "optimizations", causing some CPU cores to be paused
-- Usually does not conflict with third-party optimizers
-- If the game you play is not on the list, and you have the patience and knowledge to debug, you can send an email to `nakixii@gmail.com` to apply for debugging. A screenshot of the thread statistics in the Scene 6/7 fps record and the package name of the game must be included. **Emails without complete information are invalid.**
+- May be affected by some "optimizations", usually does not conflict with third-party optimizers
+- If the game you play is not on the list, and you have the patience and knowledge to debug, you can send an email to `nakixii@gmail.com` to apply for debugging. A screenshot of the thread statistics in the Scene 7 FrameRate Stats and the package name of the game must be included. **Emails without complete information are invalid.**
 
 ## 支持的游戏 / Supported games
 - 暗区突围
@@ -71,7 +38,7 @@ Game threads tweaker for Android, supports mainstream games, also supports some 
 - 机动都市阿尔法（包含国际/渠道服）
 - 剑与远征
 - 金铲铲之战
-- 聚爆Implosion
+- 聚爆Implosion（包含渠道服）
 - 决战！平安京（包含渠道服）
 - 狂野飙车9（包含渠道服）
 - 黎明觉醒：生机
@@ -86,13 +53,15 @@ Game threads tweaker for Android, supports mainstream games, also supports some 
 - 命运-冠位指定
 - 霓虹深渊：无限
 - 逆水寒
+- 暖雪（包含渠道服）
 - 跑跑卡丁车官方竞速版
 - 强袭人形：原体（包含国际服）
 - 球球大作战
+- 雀魂麻将（包含国际服）
 - 雀姬（包含国际/渠道服）
 - 赛马娘Pretty Derby
 - 少女前线2：追放
-- 深空之眼
+- 深空之眼（包含渠道服）
 - 使命召唤手游
 - 世界弹射物语（包含国际/渠道服）
 - 宿命回响：弦上的叹息（包含渠道服）
@@ -115,7 +84,7 @@ Game threads tweaker for Android, supports mainstream games, also supports some 
 - 旋转音律Rotaeno（包含国际服）
 - 阴阳师（包含国际/渠道服）
 - 英雄联盟手游（包含国际服）
-- 萤火突击
+- 萤火突击（包含国际服）
 - 游戏王：决斗链接
 - 元气骑士
 - 原神（包含国际/渠道服）
@@ -146,8 +115,10 @@ Game threads tweaker for Android, supports mainstream games, also supports some 
 - Master Duel
 - Minecraft
 - MMD UNITY
+- Monster Hunter Now
 - Muse Dash
 - NBA2K20
+- osu!(lazer) (Multithreaded)
 - PUBG Mobile
 - PUBG Mobile KR
 - PUBG Mobile TW
