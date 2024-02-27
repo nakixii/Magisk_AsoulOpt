@@ -41,6 +41,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 聚爆Implosion（包含渠道服）
 - 决战！平安京（包含渠道服）
 - 狂野飙车9（包含渠道服）
+- 来自星尘（包含国际服）
 - 黎明觉醒：生机
 - 黎明前20分钟（包含国际服）
 - 黎明杀机
@@ -55,6 +56,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 逆水寒
 - 暖雪（包含渠道服）
 - 跑跑卡丁车官方竞速版
+- 帕斯卡契约（包含国际/渠道服）
 - 强袭人形：原体（包含国际服）
 - 球球大作战
 - 雀魂麻将（包含国际服）
@@ -109,6 +111,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - Dungeon Defense
 - DYSMANTLE
 - Farlight 84
+- Honor of Kings
 - ICEY
 - KartRider: Drift
 - Love Live! School idol festival 2 MIRACLE LIVE!
@@ -119,6 +122,8 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - Muse Dash
 - NBA2K20
 - osu!(lazer) (Multithreaded)
+- Pocket Rogues
+- PojavLauncher
 - PUBG Mobile
 - PUBG Mobile KR
 - PUBG Mobile TW
