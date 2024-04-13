@@ -1,8 +1,10 @@
-优化 蛋仔派对  
+优化 启动逻辑  
   
 适配以下游戏  
-- Pocket Rogues  
-- 帕斯卡契约（包含国际/渠道服）  
-- PojavLauncher  
-- Honor of Kings  
-- 来自星尘（包含国际服）
+- 公主连结R  
+- 鸣潮（包含国际服）  
+- 女神异闻录：夜幕魅影（包含渠道服）  
+- 月圆之夜（包含国际/渠道服）  
+- Combat Master  
+- Dokkan  
+- Fold Craft Launcher  

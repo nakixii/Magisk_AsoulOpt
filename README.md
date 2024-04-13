@@ -28,6 +28,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 緋染天空 Heaven Burns Red
 - 风色幻想：命运传说
 - 高能英雄
+- 公主连结R
 - 灌篮高手
 - 和平精英
 - 环行旅舍
@@ -51,12 +52,14 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 梦幻模拟战
 - 明日方舟（包含国际/渠道服）
 - 明日之后（包含国际/渠道服）
+- 鸣潮（包含国际服）
 - 命运-冠位指定
 - 霓虹深渊：无限
 - 逆水寒
+- 女神异闻录：夜幕魅影（包含渠道服）
 - 暖雪（包含渠道服）
-- 跑跑卡丁车官方竞速版
 - 帕斯卡契约（包含国际/渠道服）
+- 跑跑卡丁车官方竞速版
 - 强袭人形：原体（包含国际服）
 - 球球大作战
 - 雀魂麻将（包含国际服）
@@ -90,6 +93,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 游戏王：决斗链接
 - 元气骑士
 - 原神（包含国际/渠道服）
+- 月圆之夜（包含国际/渠道服）
 - 云顶之弈
 - 战双帕弥什（包含国际/渠道服）
 - 中国象棋
@@ -104,13 +108,16 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - Call of Duty Mobile
 - Call of Duty Mobile KR
 - COD Warzone
+- Combat Master
 - CSWGS
 - Cytoid
 - D4DJ
 - Diablo Immortal
+- Dokkan
 - Dungeon Defense
 - DYSMANTLE
 - Farlight 84
+- Fold Craft Launcher
 - Honor of Kings
 - ICEY
 - KartRider: Drift
