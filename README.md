@@ -70,6 +70,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 使命召唤手游
 - 世界弹射物语（包含国际/渠道服）
 - 宿命回响：弦上的叹息（包含渠道服）
+- 泰拉瑞亚（包含国际服）
 - 坦克世界闪击战（包含国际/渠道服）
 - 天下布魔（包含国际服）
 - 天涯明月刀
@@ -122,6 +123,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - ICEY
 - KartRider: Drift
 - Love Live! School idol festival 2 MIRACLE LIVE!
+- Malody V
 - Master Duel
 - Minecraft
 - MMD UNITY
@@ -144,6 +146,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - Source
 - Standoff 2
 - Sword Art Online
+- VTube Studio
 - アイドルマスター シンデレラガールズ スターライトステージ
 - アイドルマスター ミリオンライブ！ シアターデイズ
 - アイドルマスターシャイニーカラーズ
