@@ -13,8 +13,9 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 暗区突围
 - 暗影之枪：传奇
 - 堡垒之夜
-- 崩坏3（包含国际/渠道服）
+- 爆裂小子
 - 崩坏：星穹铁道（包含国际服）
+- 崩坏3（包含国际/渠道服）
 - 碧蓝航线
 - 部落冲突（包含国际/渠道服）
 - 尘白禁区
@@ -34,9 +35,11 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 环行旅舍
 - 幻塔（包含国际/渠道服）
 - 荒野乱斗（包含国际/渠道服）
+- 荒野行动（包含国际/渠道服）
 - 火炬之光：无限（包含国际服）
 - 火影忍者
 - 机动都市阿尔法（包含国际/渠道服）
+- 剑网3无界
 - 剑与远征
 - 金铲铲之战
 - 聚爆Implosion（包含渠道服）
@@ -88,6 +91,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 星球：重启（包含渠道服）
 - 星战前夜：无烬星河（包含国际/渠道服）
 - 旋转音律Rotaeno（包含国际服）
+- 学園アイドルマスター（学マス）
 - 阴阳师（包含国际/渠道服）
 - 英雄联盟手游（包含国际服）
 - 萤火突击（包含国际服）
@@ -103,6 +107,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 自由幻想
 - Age of History II
 - Albion Online
+- Assault Lily W
 - BanG Dream! 少女乐团派对!
 - BATTLEGROUNDS MOBILE INDIA
 - Call of Duty
@@ -127,6 +132,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - Master Duel
 - Minecraft
 - MMD UNITY
+- Monster Cooking Diary
 - Monster Hunter Now
 - Muse Dash
 - NBA2K20
@@ -146,6 +152,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - Source
 - Standoff 2
 - Sword Art Online
+- The Tower
 - VTube Studio
 - アイドルマスター シンデレラガールズ スターライトステージ
 - アイドルマスター ミリオンライブ！ シアターデイズ
