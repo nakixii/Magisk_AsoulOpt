@@ -22,7 +22,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 穿越火线：枪战王者
 - 传说对决
 - 蛋仔派对（包含国际/渠道服）
-- 第五人格（包含渠道服）
+- 第五人格（包含国际/渠道服）
 - 巅峰极速（包含国际/渠道服）
 - 东方弹幕神乐
 - 斗罗大陆：魂师对决（包含国际/渠道服）
@@ -43,6 +43,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 剑与远征
 - 金铲铲之战
 - 聚爆Implosion（包含渠道服）
+- 绝区零（包含国际服）
 - 决战！平安京（包含渠道服）
 - 狂野飙车9（包含渠道服）
 - 来自星尘（包含国际服）
@@ -67,6 +68,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 球球大作战
 - 雀魂麻将（包含国际服）
 - 雀姬（包含国际/渠道服）
+- 三角洲行动
 - 赛马娘Pretty Derby
 - 少女前线2：追放
 - 深空之眼（包含渠道服）
@@ -124,6 +126,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - DYSMANTLE
 - Farlight 84
 - Fold Craft Launcher
+- Free Fire
 - Honor of Kings
 - ICEY
 - KartRider: Drift
@@ -148,6 +151,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - RASPBERRY MASH
 - Roblox
 - Rush Rally 3
+- Shattered Pixel Dungeon
 - Sky光·遇（包含国际/渠道服）
 - Source
 - Standoff 2
