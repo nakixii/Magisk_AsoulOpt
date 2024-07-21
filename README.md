@@ -26,7 +26,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 巅峰极速（包含国际/渠道服）
 - 东方弹幕神乐
 - 斗罗大陆：魂师对决（包含国际/渠道服）
-- 緋染天空 Heaven Burns Red
+- 緋染天空 Heaven Burns Red（包含国际服）
 - 风色幻想：命运传说
 - 高能英雄
 - 公主连结R
@@ -43,8 +43,8 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 剑与远征
 - 金铲铲之战
 - 聚爆Implosion（包含渠道服）
-- 绝区零（包含国际服）
 - 决战！平安京（包含渠道服）
+- 绝区零（包含国际服）
 - 狂野飙车9（包含渠道服）
 - 来自星尘（包含国际服）
 - 黎明觉醒：生机
@@ -64,12 +64,13 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 暖雪（包含渠道服）
 - 帕斯卡契约（包含国际/渠道服）
 - 跑跑卡丁车官方竞速版
+- 奇葩战斗家（包含国际服）
 - 强袭人形：原体（包含国际服）
 - 球球大作战
 - 雀魂麻将（包含国际服）
 - 雀姬（包含国际/渠道服）
-- 三角洲行动
 - 赛马娘Pretty Derby
+- 三角洲行动
 - 少女前线2：追放
 - 深空之眼（包含渠道服）
 - 使命召唤手游
