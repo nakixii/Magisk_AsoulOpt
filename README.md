@@ -43,6 +43,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 聚爆Implosion（包含渠道服）
 - 金铲铲之战
 - 机动都市阿尔法（包含国际/渠道服）
+- 极品飞车：集结（包含国际服）
 - 绝区零（包含国际服）
 - 剑网3无界
 - 剑与远征
@@ -101,6 +102,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 云顶之弈
 - 萤火突击（包含国际服）
 - 永劫无间（包含渠道服）
+- 一梦江湖（包含渠道服）
 - 元气骑士
 - 原神（包含国际/渠道服）
 - 英雄联盟手游（包含国际服）
@@ -144,6 +146,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - Muse Dash
 - NBA2K20
 - osu!(lazer) (Multithreaded)
+- Phira
 - Pocket Rogues
 - PojavLauncher
 - PUBG Mobile
