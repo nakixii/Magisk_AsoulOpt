@@ -54,6 +54,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 黎明觉醒：生机
 - 黎明前20分钟（包含国际服）
 - 黎明杀机
+- 炉石传说
 - 来自星尘（包含国际服）
 - 鸣潮（包含国际服）
 - 猫和老鼠（包含国际/渠道服）
@@ -103,6 +104,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 萤火突击（包含国际服）
 - 永劫无间（包含渠道服）
 - 一梦江湖（包含渠道服）
+- 元梦之星
 - 元气骑士
 - 原神（包含国际/渠道服）
 - 英雄联盟手游（包含国际服）
@@ -156,6 +158,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - QQ飞车
 - Rainbow Six Mobile
 - RASPBERRY MASH
+- Real Racing 3
 - Roblox
 - Rush Rally 3
 - Shattered Pixel Dungeon
