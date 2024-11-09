@@ -28,11 +28,13 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 斗罗大陆：魂师对决（包含国际/渠道服）
 - 緋染天空 Heaven Burns Red（包含国际服）
 - 第五人格（包含国际/渠道服）
+- 大侠立志传
 - 蛋仔派对（包含国际/渠道服）
 - 风色幻想：命运传说
 - 灌篮高手
 - 高能英雄
 - 公主连结R
+- 海岛奇兵（包含渠道服）
 - 火炬之光：无限（包含国际服）
 - 和平精英
 - 幻塔（包含国际/渠道服）
@@ -135,6 +137,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - Farlight 84
 - Fold Craft Launcher
 - Free Fire
+- HATSUNE MIKU: COLORFUL STAGE!
 - Honor of Kings
 - ICEY
 - KartRider: Drift
@@ -168,6 +171,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - Sword Art Online
 - The Tower
 - VTube Studio
+- War Thunder Mobile
 - アイドルマスター シンデレラガールズ スターライトステージ
 - アイドルマスター ミリオンライブ！ シアターデイズ
 - アイドルマスターシャイニーカラーズ
