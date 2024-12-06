@@ -4,10 +4,11 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 
 ## 注意事项 / Notes
 - 可能会被某些负优化影响，通常不会与第三方调度冲突
-- 如果你玩的游戏未在列表中，并且你拥有调试的耐心以及充足的知识储备，可发送邮件到`nakixii@gmail.com`申请参加调试。必须提供 Scene 7 帧率记录内的线程负载统计截图以及游戏包名。**无完整信息的邮件无效。**
+- 如果某些游戏不在列表中，可提交 Issue 申请适配
   
 - May be affected by some "optimizations", usually does not conflict with third-party optimizers
-- If the game you play is not on the list, and you have the patience and knowledge to debug, you can send an email to `nakixii@gmail.com` to apply for debugging. A screenshot of the thread statistics in the Scene 7 FrameRate Stats and the package name of the game must be included. **Emails without complete information are invalid.**
+- If some games are not on the list, you can submit an Issue to apply for support.
+
 
 ## 支持的游戏 / Supported games
 - 暗区突围
@@ -94,6 +95,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 未来之役
 - 王牌竞速（包含渠道服）
 - 无期迷途
+- 无限暖暖（包含国际服）
 - 王者荣耀（包含体验服）
 - 未知：升变
 - 香肠派对
@@ -141,6 +143,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - Honor of Kings
 - ICEY
 - KartRider: Drift
+- Limbus Company
 - Love Live! School idol festival 2 MIRACLE LIVE!
 - Malody V
 - Master Duel
