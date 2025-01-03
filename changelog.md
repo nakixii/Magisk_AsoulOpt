@@ -1,6 +1,16 @@
-修复 mode 0 放置可能错误  
-优化 网易我的世界  
-适配 War Thunder Mobile  
-适配 大侠立志传  
-适配 海岛奇兵（包含渠道服）  
-适配 HATSUNE MIKU: COLORFUL STAGE!  
+修复 内存泄漏  
+优化 放置方案  
+  
+适配列表  
+- Limbus Company  
+- 无限暖暖（包含国际服）  
+- 初音未来：缤纷舞台  
+- 决胜巅峰（包含国际服）  
+- 苍翼：混沌效应  
+- 地下城与勇士：起源  
+- eFootball™  
+- 逆水寒（国际服）  
+- MWT: Tank Battles  
+- Farmer Against Potatoes Idle  
+- PlantsVsZombiesRH  
+- Little Big Workshop  

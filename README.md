@@ -1,5 +1,5 @@
 # AsoulOpt
-Android游戏线程调整程序，适用于主流游戏以及一些小众游戏
+Android 游戏线程调整程序，适用于主流游戏以及一些小众游戏  
 Game threads tweaker for Android, suitable for mainstream games and some niche games
 
 ## 注意事项 / Notes
@@ -7,7 +7,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 如果某些游戏不在列表中，可提交 Issue 申请适配
   
 - May be affected by some "optimizations", usually does not conflict with third-party optimizers
-- If some games are not on the list, you can submit an Issue to apply for support.
+- If some games are not on the list, you can submit an Issue to apply for support
 
 
 ## 支持的游戏 / Supported games
@@ -24,11 +24,14 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 传说对决
 - 重生细胞（包含渠道服）
 - 穿越火线：枪战王者
+- 苍翼：混沌效应
+- 初音未来：缤纷舞台
 - 东方弹幕神乐
 - 巅峰极速（包含国际/渠道服）
 - 斗罗大陆：魂师对决（包含国际/渠道服）
 - 緋染天空 Heaven Burns Red（包含国际服）
 - 第五人格（包含国际/渠道服）
+- 地下城与勇士：起源
 - 大侠立志传
 - 蛋仔派对（包含国际/渠道服）
 - 风色幻想：命运传说
@@ -48,6 +51,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 机动都市阿尔法（包含国际/渠道服）
 - 极品飞车：集结（包含国际服）
 - 绝区零（包含国际服）
+- 决胜巅峰（包含国际服）
 - 剑网3无界
 - 剑与远征
 - 决战！平安京（包含渠道服）
@@ -66,7 +70,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 明日之后（包含国际/渠道服）
 - 命运-冠位指定
 - 霓虹深渊：无限
-- 逆水寒
+- 逆水寒（包含国际服）
 - 女神异闻录：夜幕魅影（包含渠道服）
 - 暖雪（包含渠道服）
 - 跑跑卡丁车官方竞速版
@@ -136,7 +140,9 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - Dokkan
 - Dungeon Defense
 - DYSMANTLE
+- eFootball™
 - Farlight 84
+- Farmer Against Potatoes Idle
 - Fold Craft Launcher
 - Free Fire
 - HATSUNE MIKU: COLORFUL STAGE!
@@ -144,6 +150,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - ICEY
 - KartRider: Drift
 - Limbus Company
+- Little Big Workshop
 - Love Live! School idol festival 2 MIRACLE LIVE!
 - Malody V
 - Master Duel
@@ -152,9 +159,11 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - Monster Cooking Diary
 - Monster Hunter Now
 - Muse Dash
+- MWT: Tank Battles
 - NBA2K20
 - osu!(lazer) (Multithreaded)
 - Phira
+- PlantsVsZombiesRH
 - Pocket Rogues
 - PojavLauncher
 - PUBG Mobile
@@ -175,6 +184,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - The Tower
 - VTube Studio
 - War Thunder Mobile
+- Wild Rift
 - アイドルマスター シンデレラガールズ スターライトステージ
 - アイドルマスター ミリオンライブ！ シアターデイズ
 - アイドルマスターシャイニーカラーズ
