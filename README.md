@@ -26,7 +26,6 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 穿越火线：枪战王者
 - 苍翼：混沌效应
 - 初音未来：缤纷舞台
-- 东方弹幕神乐
 - 巅峰极速（包含国际/渠道服）
 - 斗罗大陆：魂师对决（包含国际/渠道服）
 - 緋染天空 Heaven Burns Red（包含国际服）
@@ -35,6 +34,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 大侠立志传
 - 蛋仔派对（包含国际/渠道服）
 - 风色幻想：命运传说
+- 鬼谷八荒
 - 灌篮高手
 - 高能英雄
 - 公主连结R
@@ -81,7 +81,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 球球大作战
 - 强袭人形：原体（包含国际服）
 - 世界計畫
-- 世界弹射物语（包含国际/渠道服）
+- 世界弹射物语
 - 三角洲行动
 - 深空之眼（包含渠道服）
 - 宿命回响：弦上的叹息（包含渠道服）
@@ -90,6 +90,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 少女前线2：追放
 - 坦克世界闪击战（包含国际/渠道服）
 - 泰拉瑞亚（包含国际服）
+- 逃跑吧！少年
 - 天下布魔（包含国际服）
 - 天涯明月刀
 - 我的世界（中国版）
@@ -114,10 +115,12 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 一梦江湖（包含渠道服）
 - 元梦之星
 - 元气骑士
+- 元气骑士前传
 - 原神（包含国际/渠道服）
 - 英雄联盟手游（包含国际服）
 - 游戏王：决斗链接
 - 阴阳师（包含国际/渠道服）
+- 燕云十六声
 - 月圆之夜（包含国际/渠道服）
 - 中国象棋
 - 战双帕弥什（包含国际/渠道服）
@@ -127,6 +130,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - Assault Lily W
 - BanG Dream! 少女乐团派对!
 - BATTLEGROUNDS MOBILE INDIA
+- Blood Strike
 - Call of Duty
 - Call of Duty Mobile
 - Call of Duty Mobile KR
@@ -148,6 +152,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - HATSUNE MIKU: COLORFUL STAGE!
 - Honor of Kings
 - ICEY
+- Ingress
 - KartRider: Drift
 - Limbus Company
 - Little Big Workshop
@@ -156,6 +161,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - Master Duel
 - Minecraft
 - MMD UNITY
+- Modern Warships
 - Monster Cooking Diary
 - Monster Hunter Now
 - Muse Dash
@@ -166,6 +172,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - PlantsVsZombiesRH
 - Pocket Rogues
 - PojavLauncher
+- PoppyMobile
 - PUBG Mobile
 - PUBG Mobile KR
 - PUBG Mobile TW
