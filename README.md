@@ -23,9 +23,10 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 重返未来：1999
 - 传说对决
 - 重生细胞（包含渠道服）
-- 穿越火线：枪战王者
 - 苍翼：混沌效应
+- 穿越火线：枪战王者
 - 初音未来：缤纷舞台
+- 超異域公主連結！Re:Dive
 - 巅峰极速（包含国际/渠道服）
 - 斗罗大陆：魂师对决（包含国际/渠道服）
 - 緋染天空 Heaven Burns Red（包含国际服）
@@ -37,8 +38,10 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 鬼谷八荒
 - 灌篮高手
 - 高能英雄
+- 怪物火车
 - 公主连结R
 - 海岛奇兵（包含渠道服）
+- 航海王：壮志雄心（包含渠道服）
 - 火炬之光：无限（包含国际服）
 - 和平精英
 - 幻塔（包含国际/渠道服）
@@ -55,6 +58,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 剑网3无界
 - 剑与远征
 - 决战！平安京（包含渠道服）
+- 卡拉彼丘
 - 狂野飙车9（包含渠道服）
 - 猎魂觉醒（包含渠道服）
 - 零灵：天运防线
@@ -69,6 +73,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 明日方舟（包含国际/渠道服）
 - 明日之后（包含国际/渠道服）
 - 命运-冠位指定
+- 美职篮全明星
 - 霓虹深渊：无限
 - 逆水寒（包含国际服）
 - 女神异闻录：夜幕魅影（包含渠道服）
@@ -77,12 +82,14 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 帕斯卡契约（包含国际/渠道服）
 - 雀魂麻将（包含国际服）
 - 雀姬（包含国际/渠道服）
+- 全明星街球派对（包含国际服）
 - 奇葩战斗家（包含国际服）
 - 球球大作战
 - 强袭人形：原体（包含国际服）
 - 世界計畫
 - 世界弹射物语
-- 三角洲行动
+- 三角洲行动（包含国际服）
+- 时空猎人（包含渠道服）
 - 深空之眼（包含渠道服）
 - 宿命回响：弦上的叹息（包含渠道服）
 - 赛马娘Pretty Derby
@@ -125,12 +132,14 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - 中国象棋
 - 战双帕弥什（包含国际/渠道服）
 - 自由幻想
+- 300大作战
 - Age of History II
 - Albion Online
 - Assault Lily W
 - BanG Dream! 少女乐团派对!
 - BATTLEGROUNDS MOBILE INDIA
 - Blood Strike
+- BrownDust II
 - Call of Duty
 - Call of Duty Mobile
 - Call of Duty Mobile KR
@@ -143,6 +152,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - Diablo Immortal
 - Dokkan
 - Dungeon Defense
+- Dunk City Dynasty
 - DYSMANTLE
 - eFootball™
 - Farlight 84
@@ -156,6 +166,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - KartRider: Drift
 - Limbus Company
 - Little Big Workshop
+- Lost 4 Swords
 - Love Live! School idol festival 2 MIRACLE LIVE!
 - Malody V
 - Master Duel
@@ -173,6 +184,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - Pocket Rogues
 - PojavLauncher
 - PoppyMobile
+- Princess Connect! Re: Dive
 - PUBG Mobile
 - PUBG Mobile KR
 - PUBG Mobile TW
@@ -197,4 +209,6 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - アイドルマスターシャイニーカラーズ
 - バンドリ！ ガールズバンドパーティ！
 - 学園アイドルマスター（学マス）
+- プリンセスコネクト！Re:Dive
 - プロセカ
+- 에테르 게이저
