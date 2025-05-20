@@ -5,210 +5,282 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 ## 注意事项 / Notes
 - 可能会被某些负优化影响，通常不会与第三方调度冲突
 - 如果某些游戏不在列表中，可提交 Issue 申请适配
-  
 - May be affected by some "optimizations", usually does not conflict with third-party optimizers
 - If some games are not on the list, you can submit an Issue to apply for support
 
+## 支持列表 / Supported games
+- 如果包名包含以下任意一项，那么支持该游戏。
+- 使用`check.sh`检查已支持你的设备上的哪些游戏。
+- 示例：「开放空间」官服包名`com.Nekootan.kfkj.android`包含`Nekootan.kfkj`。
+- 示例：「原神」官服包名`com.miHoYo.Yuanshen`包含`com.miHoYo.Yuanshen`。
+- If the package name contains any of the following entries, the game is supported.
+- Use `check.sh` to check which games are already supported on your device.
+- Example: Over Field (official) package name `com.Nekootan.kfkj.android` contains `Nekootan.kfkj`.
+- Example: Genshin Impact (official) package name `com.miHoYo.Yuanshen` contains `com.miHoYo.Yuanshen`.
 
-## 支持的游戏 / Supported games
-- 暗区突围
-- 暗影之枪：传奇
-- 崩坏3（包含国际/渠道服）
-- 崩坏：星穹铁道（包含国际服）
-- 部落冲突（包含国际/渠道服）
-- 碧蓝航线
-- 爆裂小子
-- 堡垒之夜
-- 尘白禁区
-- 重返未来：1999
-- 传说对决
-- 重生细胞（包含渠道服）
-- 苍翼：混沌效应
-- 穿越火线：枪战王者
-- 初音未来：缤纷舞台
-- 超異域公主連結！Re:Dive
-- 巅峰极速（包含国际/渠道服）
-- 斗罗大陆：魂师对决（包含国际/渠道服）
-- 緋染天空 Heaven Burns Red（包含国际服）
-- 第五人格（包含国际/渠道服）
-- 地下城与勇士：起源
-- 大侠立志传
-- 蛋仔派对（包含国际/渠道服）
-- 风色幻想：命运传说
-- 鬼谷八荒
-- 灌篮高手
-- 高能英雄
-- 怪物火车
-- 公主连结R
-- 海岛奇兵（包含渠道服）
-- 航海王：壮志雄心（包含渠道服）
-- 火炬之光：无限（包含国际服）
-- 和平精英
-- 幻塔（包含国际/渠道服）
-- 环行旅舍
-- 荒野乱斗（包含国际/渠道服）
-- 火影忍者
-- 荒野行动（包含国际/渠道服）
-- 聚爆Implosion（包含渠道服）
-- 金铲铲之战
-- 机动都市阿尔法（包含国际/渠道服）
-- 极品飞车：集结（包含国际服）
-- 绝区零（包含国际服）
-- 决胜巅峰（包含国际服）
-- 剑网3无界
-- 剑与远征
-- 决战！平安京（包含渠道服）
-- 卡拉彼丘
-- 狂野飙车9（包含渠道服）
-- 猎魂觉醒（包含渠道服）
-- 零灵：天运防线
-- 黎明觉醒：生机
-- 黎明前20分钟（包含国际服）
-- 黎明杀机
-- 炉石传说
-- 来自星尘（包含国际服）
-- 鸣潮（包含国际服）
-- 猫和老鼠（包含国际/渠道服）
-- 梦幻模拟战
-- 明日方舟（包含国际/渠道服）
-- 明日之后（包含国际/渠道服）
-- 命运-冠位指定
-- 美职篮全明星
-- 霓虹深渊：无限
-- 逆水寒（包含国际服）
-- 女神异闻录：夜幕魅影（包含渠道服）
-- 暖雪（包含渠道服）
-- 跑跑卡丁车官方竞速版
-- 帕斯卡契约（包含国际/渠道服）
-- 雀魂麻将（包含国际服）
-- 雀姬（包含国际/渠道服）
-- 全明星街球派对（包含国际服）
-- 奇葩战斗家（包含国际服）
-- 球球大作战
-- 强袭人形：原体（包含国际服）
-- 世界計畫
-- 世界弹射物语
-- 三角洲行动（包含国际服）
-- 时空猎人（包含渠道服）
-- 深空之眼（包含渠道服）
-- 宿命回响：弦上的叹息（包含渠道服）
-- 赛马娘Pretty Derby
-- 使命召唤手游
-- 少女前线2：追放
-- 坦克世界闪击战（包含国际/渠道服）
-- 泰拉瑞亚（包含国际服）
-- 逃跑吧！少年
-- 天下布魔（包含国际服）
-- 天涯明月刀
-- 我的世界（中国版）
-- 我的勇者
-- 无尽的拉格朗日
-- 蔚蓝档案（包含国际/渠道服）
-- 未来之役
-- 王牌竞速（包含渠道服）
-- 无期迷途
-- 无限暖暖（包含国际服）
-- 王者荣耀（包含体验服）
-- 未知：升变
-- 香肠派对
-- 心动小镇
-- 现代战舰
-- 星球：重启（包含渠道服）
-- 星战前夜：无烬星河（包含国际/渠道服）
-- 旋转音律Rotaeno（包含国际服）
-- 云顶之弈
-- 萤火突击（包含国际服）
-- 永劫无间（包含渠道服）
-- 一梦江湖（包含渠道服）
-- 元梦之星
-- 元气骑士
-- 元气骑士前传
-- 原神（包含国际/渠道服）
-- 英雄联盟手游（包含国际服）
-- 游戏王：决斗链接
-- 阴阳师（包含国际/渠道服）
-- 燕云十六声
-- 月圆之夜（包含国际/渠道服）
-- 中国象棋
-- 战双帕弥什（包含国际/渠道服）
-- 自由幻想
-- 300大作战
-- Age of History II
-- Albion Online
-- Assault Lily W
-- BanG Dream! 少女乐团派对!
-- BATTLEGROUNDS MOBILE INDIA
-- Blood Strike
-- BrownDust II
-- Call of Duty
-- Call of Duty Mobile
-- Call of Duty Mobile KR
-- CarX Highway Racing
-- COD Warzone
-- Combat Master
-- CSWGS
-- Cytoid
-- D4DJ
-- Diablo Immortal
-- Dokkan
-- Dungeon Defense
-- Dunk City Dynasty
-- DYSMANTLE
-- eFootball™
-- Farlight 84
-- Farmer Against Potatoes Idle
-- Fold Craft Launcher
-- Free Fire
-- HATSUNE MIKU: COLORFUL STAGE!
-- Honor of Kings
-- ICEY
-- Ingress
-- KartRider: Drift
-- Limbus Company
-- Little Big Workshop
-- Lost 4 Swords
-- Love Live! School idol festival 2 MIRACLE LIVE!
-- Malody V
-- Master Duel
-- Minecraft
-- MMD UNITY
-- Modern Warships
-- Monster Cooking Diary
-- Monster Hunter Now
-- Muse Dash
-- MWT: Tank Battles
-- NBA2K20
-- osu!(lazer) (Multithreaded)
-- Phira
-- PlantsVsZombiesRH
-- Pocket Rogues
-- PojavLauncher
-- PoppyMobile
-- Princess Connect! Re: Dive
-- PUBG Mobile
-- PUBG Mobile KR
-- PUBG Mobile TW
-- PUBG Mobile VN
-- QQ飞车
-- Rainbow Six Mobile
-- RASPBERRY MASH
-- Real Racing 3
-- Roblox
-- Rush Rally 3
-- Shattered Pixel Dungeon
-- Sky光·遇（包含国际/渠道服）
-- Source
-- Standoff 2
-- Sword Art Online
-- The Tower
-- VTube Studio
-- War Thunder Mobile
-- Wild Rift
-- アイドルマスター シンデレラガールズ スターライトステージ
-- アイドルマスター ミリオンライブ！ シアターデイズ
-- アイドルマスターシャイニーカラーズ
-- バンドリ！ ガールズバンドパーティ！
-- 学園アイドルマスター（学マス）
-- プリンセスコネクト！Re:Dive
-- プロセカ
-- 에테르 게이저
+```
+Nekootan.kfkj
+age.of.civilizations2.jakowski.lukasz
+brownmonster.app.game.rushrally3
+com.AlfaBravo.Combat
+com.CarXTech.highWay
+com.ChillyRoom.DungeonShooter
+com.EtherGaming.PocketRogues
+com.Flanne.MinutesTillDawn.roguelike.shooting.gp
+com.GameCoaster.ProtectDungeon
+com.HoYoverse.hkrpgoversea
+com.LanPiaoPiao.PlantsVsZombiesRH
+com.MOBGames.PoppyMobileChap1
+com.ProjectMoon.LimbusCompany
+com.RoamingStar.BlueArchive
+com.ShinyShoe.MonsterTrain.mtap
+com.Shooter.ModernWarfront
+com.Shooter.ModernWarships
+com.Sunborn.SnqxExilium
+com.TechTreeGames.TheTower
+com.YoStarEN.Arknights
+com.YoStarEN.MahjongSoul
+com.YoStarJP.MajSoul
+com.YostarJP.BlueArchive
+com.ZeroCastleGameStudio.StrikeBusterPrototype
+com.ZeroCastleGameStudioINTL.StrikeBusterPrototype
+com.actgames.bbee
+com.activision.callofduty.shooter
+com.activision.callofduty.warzone
+com.albiononline
+com.aligames.kuang.kybc
+com.and.games505.Terraria
+com.axlebolt.standoff2
+com.bairimeng.dmmdzz
+com.bandainamcoent.idolmaster_gakuen
+com.bandainamcoent.imas_millionlive_theaterdays
+com.bandainamcoent.sao
+com.bandainamcoent.shinycolorsprism
+com.bandainamcogames.dbzdokkanww
+com.bf.sgs.hdexp.bd
+com.bhvr.deadbydaylight
+com.bilibili.azurlane
+com.bilibili.deadcells.mobile
+com.bilibili.fatego
+com.bilibili.heaven
+com.bilibili.priconne
+com.bilibili.star.bili
+com.bilibili.warmsnow
+com.biligamekr.aggp
+com.bingkolo.kleins.cn
+com.blizzard.diablo.immortal
+com.blizzard.wtcg.hearthstone
+com.bscotch.crashlands2
+com.bushiroad.d4dj
+com.bushiroad.lovelive.schoolidolfestival2
+com.chucklefish.stardewvalley
+com.cnvcs.xiangqi
+com.crunchyroll.princessconnectredive
+com.denachina.g13002010
+com.denchi.vtubestudio
+com.dfjz.moba
+com.dgames.g15002002
+com.dragonli.projectsnow.lhm
+com.dts.freefireth
+com.ea.games.r3_row
+com.epicgames.fortnite
+com.fantablade.icey
+com.gaijingames.wtm
+com.gameloft.android.ANMP.GloftA9HM
+com.garena.game.codm
+com.garena.game.df
+com.garena.game.kgtw
+com.garena.game.nfsm
+com.gbits.funnyfighter.android.overseas
+com.gryphline.exastris.gp
+com.guigugame.guigubahuang
+com.guyou.deadstrike
+com.h73.jhqyna
+com.halo.windf.hero
+com.heavenburnsred
+com.hermes.j1game
+com.hermes.mk
+com.hg.lbw
+com.hottapkgs.hotta
+com.humo.yqqsqz.yw
+com.hypergryph.arknights
+com.hypergryph.exastris
+com.idreamsky.klbqm
+com.ignm.raspberrymash.jp
+com.ilongyuan.implosion
+com.infoldgames.infinitynikkien
+com.jacksparrow.jpmajiang
+com.jumpw.mobile300
+com.komoe.kmumamusumegp
+com.kurogame.aki
+com.kurogame.haru
+com.kurogame.mingchao
+com.kurogame.wutheringwaves.global
+com.leiting.wf
+com.levelinfinite.sgameGlobal
+com.lilithgames.hgame.cn
+com.longe.allstarhmt
+com.madfingergames.legends
+com.miHoYo.GenshinImpact
+com.miHoYo.Nap
+com.miHoYo.Yuanshen
+com.miHoYo.bh3
+com.miHoYo.enterprise.NGHSoD
+com.miHoYo.hkrpg
+com.miHoYo.ys
+com.miHoYo.zenless
+com.minidragon.idlefantasy
+com.miniworldgame.creata.vn
+com.miraclegames.farlight84
+com.mobile.legends
+com.modx.daluandou
+com.mojang.minecraftpe
+com.nanostudios.games.twenty.minutes
+com.neowizgames.game.browndust2
+com.netease.AVALON
+com.netease.EVE
+com.netease.aceracer
+com.netease.allstar
+com.netease.dfjs
+com.netease.dunkcd
+com.netease.dwrg
+com.netease.eve.en
+com.netease.g93na
+com.netease.h73hmt
+com.netease.h75na
+com.netease.hyxd
+com.netease.idv
+com.netease.jddsaef
+com.netease.ko
+com.netease.l22
+com.netease.lglr
+com.netease.ma84
+com.netease.moba
+com.netease.mrzh
+com.netease.newspike
+com.netease.nshm
+com.netease.nshmhmt
+com.netease.onmyoji
+com.netease.party
+com.netease.pes
+com.netease.qrsj
+com.netease.race
+com.netease.sky
+com.netease.soulofhunter
+com.netease.tj
+com.netease.tom
+com.netease.wotb
+com.netease.wyclx
+com.netease.x19
+com.netease.yhtj
+com.netease.yyslscn
+com.nexon.bluearchive
+com.nexon.kartdrift
+com.nexon.mdnf
+com.nexon.mod
+com.nianticlabs.monsterhunter
+com.nianticproject.ingress
+com.oninou.FAPI
+com.papegames.infinitynikki
+com.pinkcore.tkfm
+com.playdigious.deadcells.mobile
+com.playmini.miniworld
+com.proxima.dfm
+com.proximabeta.nikke
+com.prpr.musedash
+com.pubg
+com.pubg.newstate
+com.pwrd.hotta.laohu
+com.pwrd.huanta
+com.pwrd.p5x
+com.pwrd.persona5x.laohu
+com.r2games.myhero.bilibili
+com.rayark.implosion
+com.rekoo.pubgm
+com.riotgames.league.teamfighttactics
+com.riotgames.league.wildrift
+com.roblox.client
+com.seasun.jx3
+com.sega.ColorfulStage.en
+com.sega.pjsekai
+com.shangyoo.neon
+com.shatteredpixel.shatteredpixeldungeon
+com.shenlan.m.reverse1999
+com.sofunny.Sausage
+com.soulgamechst.majsoul
+com.supercell.boombeach
+com.sy.dldlhsdj
+com.t2ksports.nba2k20and
+com.tencent.KiHan
+com.tencent.hhw
+com.tencent.ig
+com.tencent.jkchess
+com.tencent.letsgo
+com.tencent.lolm
+com.tencent.mf.uam
+com.tencent.nba2kx
+com.tencent.nfsonline
+com.tencent.tmgp.WePop
+com.tencent.tmgp.bh3
+com.tencent.tmgp.cf
+com.tencent.tmgp.cod
+com.tencent.tmgp.dfjs
+com.tencent.tmgp.dfm
+com.tencent.tmgp.dnf
+com.tencent.tmgp.dwrg
+com.tencent.tmgp.ffom
+com.tencent.tmgp.gnyx
+com.tencent.tmgp.kr.codm
+com.tencent.tmgp.pubgmhd
+com.tencent.tmgp.sgame
+com.tencent.tmgp.speedmobile
+com.tencent.tmgp.supercell.boombeach
+com.tencent.tmgp.wuxia
+com.tencent.tmgp.yys.zqb
+com.tencent.toaa
+com.tgc.sky.android
+com.the10tons.dysmantle
+com.tipsworks.android.pascalswager
+com.tipsworks.pascalswager
+com.trampolinetales.lbal
+com.tungsten.fcl
+com.ubisoft.rainbowsixmobile.r6.fps.pvp.shooter
+com.unity.mmd
+com.valvesoftware.cswgsm
+com.valvesoftware.source
+com.vng.pubgmobile
+com.xd.TLglobal
+com.xd.dxlzz.taptap
+com.xd.rotaeno.googleplay
+com.xd.rotaeno.tapcn
+com.xd.terraria
+com.xd.xdt
+com.xindong.torchlight
+com.yinhan.hunter
+com.yongshi.tenojo
+com.zlongame.mhmnz
+com.ztgame.bob
+com.ztgame.yyzy
+com.zy.wqmt.cn
+gplay.punishing.grayraven
+jp.co.bandainamcoent.BNEI0242
+jp.co.craftegg.band
+jp.co.cygames.princessconnectredive
+jp.konami.masterduel
+jp.konami.pesam
+me.mugzone.emiria
+me.tigerhix.cytoid
+minitech.miniworld
+moe.low.arc
+net.kdt.pojavlaunch
+net.wargaming.wot.blitz
+org.flos.phira
+org.maxbytes.lfs
+sh.ppy.osulazer
+supercell.brawlstars
+supercell.clashofclans
+supercell.squad
+tw.sonet.allbw
+tw.sonet.princessconnect
+xd.sce.promotion
+```
