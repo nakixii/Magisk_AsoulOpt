@@ -1,9 +1,9 @@
 ---
-name: New Game Request
-about: Submit a Request for New Game Support
-title: New Game Request
-labels: ''
-assignees: ''
+name:roblox 
+about:Because of the frequent occurrence of stuttering when playing, the CPU occupancy is high, I hope you can support the update of this game..
+title: com.roblox.client
+labels: 'New game support'
+assignees: '3568486052@qq.com'
 
 ---
 
