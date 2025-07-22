@@ -10,11 +10,11 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 
 ## 支持列表 / Supported games
 - 如果包名包含以下任意一项，那么支持该游戏。
-- 使用`check.sh`检查已支持你的设备上的哪些游戏。
+- 使用`check.sh`检查已支持你的设备上的哪些游戏。必须将其和`README.md`放置在同一目录。
 - 示例：「开放空间」官服包名`com.Nekootan.kfkj.android`包含`Nekootan.kfkj`。
 - 示例：「原神」官服包名`com.miHoYo.Yuanshen`包含`com.miHoYo.Yuanshen`。
 - If the package name contains any of the following entries, the game is supported.
-- Use `check.sh` to check which games are already supported on your device.
+- Use `check.sh` to check which games are already supported on your device. It must be placed in the same directory as `README.md`.
 - Example: Over Field (official) package name `com.Nekootan.kfkj.android` contains `Nekootan.kfkj`.
 - Example: Genshin Impact (official) package name `com.miHoYo.Yuanshen` contains `com.miHoYo.Yuanshen`.
 
@@ -82,6 +82,7 @@ com.dfjz.moba
 com.dgames.g15002002
 com.dragonli.projectsnow.lhm
 com.dts.freefireth
+com.ea.game.pvz2_row
 com.ea.games.r3_row
 com.epicgames.fortnite
 com.fantablade.icey
@@ -98,6 +99,7 @@ com.guyou.deadstrike
 com.h73.jhqyna
 com.halo.windf.hero
 com.heavenburnsred
+com.hermes.h1game
 com.hermes.j1game
 com.hermes.mk
 com.hg.lbw
@@ -107,11 +109,14 @@ com.hypergryph.arknights
 com.hypergryph.exastris
 com.idreamsky.klbqm
 com.ignm.raspberrymash.jp
+com.ilongyuan.cytus2
 com.ilongyuan.implosion
 com.infoldgames.infinitynikkien
 com.jacksparrow.jpmajiang
 com.jumpw.mobile300
+com.kiloo.subwaysurf.gw
 com.komoe.kmumamusumegp
+com.krafton.dndm
 com.kurogame.aki
 com.kurogame.haru
 com.kurogame.mingchao
@@ -135,6 +140,7 @@ com.miraclegames.farlight84
 com.mobile.legends
 com.modx.daluandou
 com.mojang.minecraftpe
+com.movtery.zalithlauncher
 com.nanostudios.games.twenty.minutes
 com.neowizgames.game.browndust2
 com.netease.AVALON
@@ -174,6 +180,7 @@ com.netease.wyclx
 com.netease.x19
 com.netease.yhtj
 com.netease.yyslscn
+com.netease.yzs
 com.nexon.bluearchive
 com.nexon.kartdrift
 com.nexon.mdnf
@@ -182,6 +189,7 @@ com.nianticlabs.monsterhunter
 com.nianticproject.ingress
 com.oninou.FAPI
 com.papegames.infinitynikki
+com.pi.czrxdfirst
 com.pinkcore.tkfm
 com.playdigious.deadcells.mobile
 com.playmini.miniworld
@@ -195,6 +203,7 @@ com.pwrd.huanta
 com.pwrd.p5x
 com.pwrd.persona5x.laohu
 com.r2games.myhero.bilibili
+com.rayark.cytus2
 com.rayark.implosion
 com.rekoo.pubgm
 com.riotgames.league.teamfighttactics
@@ -209,6 +218,7 @@ com.shenlan.m.reverse1999
 com.sofunny.Sausage
 com.soulgamechst.majsoul
 com.supercell.boombeach
+com.supercell.clashroyale
 com.sy.dldlhsdj
 com.t2ksports.nba2k20and
 com.tencent.KiHan
