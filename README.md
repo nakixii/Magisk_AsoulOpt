@@ -28,6 +28,7 @@ com.ChillyRoom.DungeonShooter
 com.EtherGaming.PocketRogues
 com.Flanne.MinutesTillDawn.roguelike.shooting.gp
 com.GameCoaster.ProtectDungeon
+com.GlobalSoFunny.Sausage
 com.HoYoverse.hkrpgoversea
 com.LanPiaoPiao.PlantsVsZombiesRH
 com.MOBGames.PoppyMobileChap1
@@ -38,6 +39,7 @@ com.Shooter.ModernWarfront
 com.Shooter.ModernWarships
 com.Sunborn.SnqxExilium
 com.TechTreeGames.TheTower
+com.YiMoXuan.XYZJF
 com.YoStarEN.Arknights
 com.YoStarEN.MahjongSoul
 com.YoStarJP.MajSoul
@@ -124,6 +126,7 @@ com.kurogame.wutheringwaves.global
 com.leiting.wf
 com.levelinfinite.sgameGlobal
 com.lilithgames.hgame.cn
+com.lilithgames.solarland.android.cn
 com.longe.allstarhmt
 com.madfingergames.legends
 com.miHoYo.GenshinImpact
@@ -234,6 +237,7 @@ com.tencent.tmgp.WePop
 com.tencent.tmgp.bh3
 com.tencent.tmgp.cf
 com.tencent.tmgp.cod
+com.tencent.tmgp.codev
 com.tencent.tmgp.dfjs
 com.tencent.tmgp.dfm
 com.tencent.tmgp.dnf
@@ -244,6 +248,7 @@ com.tencent.tmgp.kr.codm
 com.tencent.tmgp.pubgmhd
 com.tencent.tmgp.sgame
 com.tencent.tmgp.speedmobile
+com.tencent.tmgp.sskgame
 com.tencent.tmgp.supercell.boombeach
 com.tencent.tmgp.wuxia
 com.tencent.tmgp.yys.zqb
