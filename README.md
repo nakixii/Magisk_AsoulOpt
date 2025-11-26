@@ -23,6 +23,7 @@ Nekootan.kfkj
 age.of.civilizations2.jakowski.lukasz
 brownmonster.app.game.rushrally3
 com.AlfaBravo.Combat
+com.BlackSaltGames.DREDGE
 com.CarXTech.highWay
 com.ChillyRoom.DungeonShooter
 com.EtherGaming.PocketRogues
@@ -34,6 +35,7 @@ com.LanPiaoPiao.PlantsVsZombiesRH
 com.MOBGames.PoppyMobileChap1
 com.ProjectMoon.LimbusCompany
 com.RoamingStar.BlueArchive
+com.Roboatino.ShogunShowdown
 com.ShinyShoe.MonsterTrain.mtap
 com.Shooter.ModernWarfront
 com.Shooter.ModernWarships
@@ -70,6 +72,7 @@ com.bilibili.star.bili
 com.bilibili.warmsnow
 com.biligamekr.aggp
 com.bingkolo.kleins.cn
+com.blade.bd
 com.blizzard.diablo.immortal
 com.blizzard.wtcg.hearthstone
 com.bscotch.crashlands2
@@ -77,15 +80,16 @@ com.bushiroad.d4dj
 com.bushiroad.lovelive.schoolidolfestival2
 com.chucklefish.stardewvalley
 com.cnvcs.xiangqi
+com.crunchyroll.gv.shogunshowdown.game
 com.crunchyroll.princessconnectredive
 com.denachina.g13002010
 com.denchi.vtubestudio
 com.dfjz.moba
 com.dgames.g15002002
-com.dragonli.projectsnow.lhm
+com.dragonli.projectsnow
 com.dts.freefireth
 com.ea.game.pvz2_row
-com.ea.games.r3_row
+com.ea.games.r3
 com.epicgames.fortnite
 com.fantablade.icey
 com.gaijingames.wtm
@@ -104,6 +108,7 @@ com.heavenburnsred
 com.hermes.h1game
 com.hermes.j1game
 com.hermes.mk
+com.herogame.gplay.punishing.grayraven.tw
 com.hg.lbw
 com.hottapkgs.hotta
 com.humo.yqqsqz.yw
@@ -115,6 +120,7 @@ com.ilongyuan.cytus2
 com.ilongyuan.implosion
 com.infoldgames.infinitynikkien
 com.jacksparrow.jpmajiang
+com.je.skgame
 com.jumpw.mobile300
 com.kiloo.subwaysurf.gw
 com.komoe.kmumamusumegp
@@ -125,6 +131,7 @@ com.kurogame.mingchao
 com.kurogame.wutheringwaves.global
 com.leiting.wf
 com.levelinfinite.sgameGlobal
+com.littleleogames.astreasixsidedoracles
 com.lilithgames.hgame.cn
 com.lilithgames.solarland.android.cn
 com.longe.allstarhmt
@@ -154,6 +161,7 @@ com.netease.dfjs
 com.netease.dunkcd
 com.netease.dwrg
 com.netease.eve.en
+com.netease.g78na
 com.netease.g93na
 com.netease.h73hmt
 com.netease.h75na
@@ -212,6 +220,7 @@ com.rekoo.pubgm
 com.riotgames.league.teamfighttactics
 com.riotgames.league.wildrift
 com.roblox.client
+com.savysoda.pss2.android
 com.seasun.jx3
 com.sega.ColorfulStage.en
 com.sega.pjsekai
@@ -222,6 +231,7 @@ com.sofunny.Sausage
 com.soulgamechst.majsoul
 com.supercell.boombeach
 com.supercell.clashroyale
+com.supercell.moco
 com.sy.dldlhsdj
 com.t2ksports.nba2k20and
 com.tencent.KiHan
@@ -240,6 +250,7 @@ com.tencent.tmgp.cod
 com.tencent.tmgp.codev
 com.tencent.tmgp.dfjs
 com.tencent.tmgp.dfm
+com.tencent.tmgp.djsy
 com.tencent.tmgp.dnf
 com.tencent.tmgp.dwrg
 com.tencent.tmgp.ffom
@@ -271,6 +282,7 @@ com.xd.rotaeno.tapcn
 com.xd.terraria
 com.xd.xdt
 com.xindong.torchlight
+com.xjskp.tv.hnsc
 com.yinhan.hunter
 com.yongshi.tenojo
 com.zlongame.mhmnz
