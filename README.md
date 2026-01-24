@@ -44,6 +44,7 @@ com.TechTreeGames.TheTower
 com.YiMoXuan.XYZJF
 com.YoStarEN.Arknights
 com.YoStarEN.MahjongSoul
+com.YoStarEN.StellaSora
 com.YoStarJP.MajSoul
 com.YostarJP.BlueArchive
 com.ZeroCastleGameStudio.StrikeBusterPrototype
@@ -87,7 +88,7 @@ com.denchi.vtubestudio
 com.dfjz.moba
 com.dgames.g15002002
 com.dragonli.projectsnow
-com.dts.freefireth
+com.dts.freefire
 com.ea.game.pvz2_row
 com.ea.games.r3
 com.epicgames.fortnite
@@ -97,6 +98,7 @@ com.gameloft.android.ANMP.GloftA9HM
 com.garena.game.codm
 com.garena.game.df
 com.garena.game.kgtw
+com.garena.game.kgvn
 com.garena.game.nfsm
 com.gbits.funnyfighter.android.overseas
 com.gryphline.exastris.gp
@@ -113,6 +115,7 @@ com.hg.lbw
 com.hottapkgs.hotta
 com.humo.yqqsqz.yw
 com.hypergryph.arknights
+com.hypergryph.endfield
 com.hypergryph.exastris
 com.idreamsky.klbqm
 com.ignm.raspberrymash.jp
@@ -184,6 +187,7 @@ com.netease.qrsj
 com.netease.race
 com.netease.sky
 com.netease.soulofhunter
+com.netease.tank
 com.netease.tj
 com.netease.tom
 com.netease.wotb
@@ -256,6 +260,7 @@ com.tencent.tmgp.dwrg
 com.tencent.tmgp.ffom
 com.tencent.tmgp.gnyx
 com.tencent.tmgp.kr.codm
+com.tencent.tmgp.nz
 com.tencent.tmgp.pubgmhd
 com.tencent.tmgp.sgame
 com.tencent.tmgp.speedmobile
