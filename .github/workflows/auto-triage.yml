@@ -1,0 +1,94 @@
+name: "Auto triage: close invalid issues"
+
+on:
+  issues:
+    types: [opened, reopened, edited]
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  triage:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Auto-triage
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const issue = context.payload.issue;
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+
+            if (!issue || !issue.number) {
+              console.log('No issue in payload — nothing to do.');
+              return;
+            }
+
+            const title = (issue.title || '');
+            const body = (issue.body || '');
+            let pkgList = [];
+
+            try {
+              const rd = await github.rest.repos.getReadme({ owner, repo });
+              const readme = Buffer.from(rd.data.content, 'base64').toString('utf8');
+              const re = /```([\s\S]*?)```/g;
+
+              let m;
+              while ((m = re.exec(readme)) !== null) {
+                const block = m[1];
+                const tokens = block.match(/[A-Za-z0-9_]+\.[A-Za-z0-9_.]+/g) || [];
+                for (const t of tokens) pkgList.push(t);
+              }
+
+              if (pkgList.length === 0) {
+                const all = readme.match(/[A-Za-z0-9_]+\.[A-Za-z0-9_.]+/g) || [];
+                pkgList = all;
+              }
+              pkgList = Array.from(new Set(pkgList));
+
+            } catch (e) {
+              console.log('Readme not found or failed to read — continuing with empty pkgList.', e.status || '', e.message || '');
+              pkgList = [];
+            }
+
+            const combined = (title + '\n' + body).replace(/[^a-zA-Z0-9.]/g, "").toLowerCase();
+            let matched = false;
+            for (const p of pkgList) {
+              if (!p) continue;
+              if (combined.includes(p.toLowerCase())) { matched = true; break; }
+            }
+
+            const hasMdImage = /!\[.*?\]\(.*?\)/.test(body);
+            const hasImageLink = /https?:\/\/\S+\.(png|jpe?g|gif|webp)(\?\S*)?/i.test(body);
+            const hasUserImages = /\buser-images\.githubusercontent\.com\/\S+/i.test(body);
+            const hasImage = hasMdImage || hasImageLink || hasUserImages;
+
+            if (matched || !hasImage) {
+              try {
+                await github.rest.issues.createComment({
+                  owner, repo, issue_number: issue.number,
+                  body: 'invalid issue 无效申请'
+                });
+              } catch (err) {
+                console.log('createComment failed:', err.status || '', err.message || '');
+                if (err.status === 404) return;
+              }
+
+              try {
+                await github.rest.issues.update({
+                  owner, repo, issue_number: issue.number,
+                  state: 'closed',
+                  state_reason: 'not_planned'
+                });
+              } catch (err) {
+                console.log('issues.update failed:', err.status || '', err.message || '');
+                if (err.status === 404) return;
+              }
+
+              console.log(`Closed issue #${issue.number} (matched=${matched}, hasImage=${hasImage})`);
+              return;
+            }
+
+            console.log('No action: issue kept open.');
