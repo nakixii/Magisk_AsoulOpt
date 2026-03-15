@@ -29,6 +29,7 @@ com.ChillyRoom.DungeonShooter
 com.EtherGaming.PocketRogues
 com.Flanne.MinutesTillDawn.roguelike.shooting.gp
 com.GameCoaster.ProtectDungeon
+com.GentleManiac.HorizonWalkerGoogle
 com.GlobalSoFunny.Sausage
 com.HoYoverse.hkrpgoversea
 com.LanPiaoPiao.PlantsVsZombiesRH
@@ -87,6 +88,7 @@ com.denachina.g13002010
 com.denchi.vtubestudio
 com.dfjz.moba
 com.dgames.g15002002
+com.digitalextremes.warframemobile
 com.dragonli.projectsnow
 com.dts.freefire
 com.ea.game.pvz2_row
@@ -101,6 +103,7 @@ com.garena.game.kgtw
 com.garena.game.kgvn
 com.garena.game.nfsm
 com.gbits.funnyfighter.android.overseas
+com.gryphline.endfield.gp
 com.gryphline.exastris.gp
 com.guigugame.guigubahuang
 com.guyou.deadstrike
@@ -224,8 +227,10 @@ com.rekoo.pubgm
 com.riotgames.league.teamfighttactics
 com.riotgames.league.wildrift
 com.roblox.client
+com.rockstargames.rdr
 com.savysoda.pss2.android
 com.seasun.jx3
+com.seasun.snowbreak.google
 com.sega.ColorfulStage.en
 com.sega.pjsekai
 com.shangyoo.neon
@@ -247,6 +252,7 @@ com.tencent.lolm
 com.tencent.mf.uam
 com.tencent.nba2kx
 com.tencent.nfsonline
+com.tencent.nikke
 com.tencent.tmgp.WePop
 com.tencent.tmgp.bh3
 com.tencent.tmgp.cf

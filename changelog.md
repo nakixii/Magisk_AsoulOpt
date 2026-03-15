@@ -1,7 +1,10 @@
+调整 移除 Plus 版本  
+新增 调度器参数优化  
+  
 适配列表  
-- Stella Sora  
-- Liên Quân Mobile  
-- Endfield  
-- Tank  
-- Free Fire MAX  
-- Nizhan Future  
+- Goddess of Victory: Nikke  
+- Snowbreak: Containment Zone  
+- RDR  
+- Warframe  
+- Endfield (Intl.)  
+- HorizonWalkerGoogle  
