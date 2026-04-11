@@ -9,14 +9,14 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 - If some games are not on the list, you can submit an Issue to apply for support
 
 ## 支持列表 / Supported games
-- 如果包名包含以下任意一项，那么支持该游戏。
+- 如果包名包含以下任意一项（即使是不完整匹配），那么支持该游戏。
 - 使用`check.sh`检查已支持你的设备上的哪些游戏。必须将其和`README.md`放置在同一目录。
-- 示例：「开放空间」官服包名`com.Nekootan.kfkj.android`包含`Nekootan.kfkj`。
-- 示例：「原神」官服包名`com.miHoYo.Yuanshen`包含`com.miHoYo.Yuanshen`。
-- If the package name contains any of the following entries, the game is supported.
+- 示例（不完整匹配）：开放空间（官服）包名`com.Nekootan.kfkj.android`包含`Nekootan.kfkj`。
+- 示例（完整匹配）：原神（官服）包名`com.miHoYo.Yuanshen`包含`com.miHoYo.Yuanshen`。
+- If the package name contains any of the following entries (includes incomplete matches), the game is supported.
 - Use `check.sh` to check which games are already supported on your device. It must be placed in the same directory as `README.md`.
-- Example: Over Field (official) package name `com.Nekootan.kfkj.android` contains `Nekootan.kfkj`.
-- Example: Genshin Impact (official) package name `com.miHoYo.Yuanshen` contains `com.miHoYo.Yuanshen`.
+- Example (incomplete match): Over Field (official) package name `com.Nekootan.kfkj.android` contains `Nekootan.kfkj`.
+- Example (complete match): Genshin Impact (official) package name `com.miHoYo.Yuanshen` contains `com.miHoYo.Yuanshen`.
 
 ```
 Nekootan.kfkj
