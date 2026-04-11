@@ -55,9 +55,15 @@ jobs:
 
             const combined = (title + '\n' + body).replace(/[^a-zA-Z0-9.]/g, "").toLowerCase();
             let matched = false;
+            let matchedPkg = '';
+
             for (const p of pkgList) {
               if (!p) continue;
-              if (combined.includes(p.toLowerCase())) { matched = true; break; }
+              if (combined.includes(p.toLowerCase())) {
+                matched = true;
+                matchedPkg = p;
+                break;
+              }
             }
 
             const hasMdImage = /!\[.*?\]\(.*?\)/.test(body);
@@ -66,10 +72,19 @@ jobs:
             const hasImage = hasMdImage || hasImageLink || hasUserImages;
 
             if (matched || !hasImage) {
+              let commentBody = '';
+              if (matched) {
+                commentBody = `无效申请：匹配到 ${matchedPkg}，请详细查看 README 中的匹配规则！
+                  Invalid issue: Matches ${matchedPkg}, please check the rules in the README carefully!`;
+              } else if (!hasImage) {
+                commentBody = `无效申请：未提供图片，请补充线程负载统计截图后重新提交。
+                  Invalid issue: No image provided, please add a screenshot of the thread statistics and resubmit.`;
+              }
+
               try {
                 await github.rest.issues.createComment({
                   owner, repo, issue_number: issue.number,
-                  body: 'invalid issue 无效申请'
+                  body: commentBody
                 });
               } catch (err) {
                 console.log('createComment failed:', err.status || '', err.message || '');
