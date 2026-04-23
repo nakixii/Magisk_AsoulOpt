@@ -1,10 +1,10 @@
-调整 移除 Plus 版本  
-新增 调度器参数优化  
-  
-适配列表  
-- Goddess of Victory: Nikke  
-- Snowbreak: Containment Zone  
-- RDR  
-- Warframe  
-- Endfield (Intl.)  
-- HorizonWalkerGoogle  
+新增支持 / New supported games  
+- 洛克王国：世界  
+- 部落冲突  
+- 现代战舰  
+- HorizonWalker  
+- 王者荣耀：世界  
+- 异环  
+- Starward  
+- 星之翼  
+- 鹅鸭杀  

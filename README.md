@@ -29,7 +29,7 @@ com.ChillyRoom.DungeonShooter
 com.EtherGaming.PocketRogues
 com.Flanne.MinutesTillDawn.roguelike.shooting.gp
 com.GameCoaster.ProtectDungeon
-com.GentleManiac.HorizonWalkerGoogle
+com.GentleManiac.HorizonWalker
 com.GlobalSoFunny.Sausage
 com.HoYoverse.hkrpgoversea
 com.LanPiaoPiao.PlantsVsZombiesRH
@@ -115,6 +115,7 @@ com.hermes.j1game
 com.hermes.mk
 com.herogame.gplay.punishing.grayraven.tw
 com.hg.lbw
+com.hottagames.yh
 com.hottapkgs.hotta
 com.humo.yqqsqz.yw
 com.hypergryph.arknights
@@ -137,9 +138,9 @@ com.kurogame.mingchao
 com.kurogame.wutheringwaves.global
 com.leiting.wf
 com.levelinfinite.sgameGlobal
-com.littleleogames.astreasixsidedoracles
 com.lilithgames.hgame.cn
 com.lilithgames.solarland.android.cn
+com.littleleogames.astreasixsidedoracles
 com.longe.allstarhmt
 com.madfingergames.legends
 com.miHoYo.GenshinImpact
@@ -252,7 +253,9 @@ com.tencent.lolm
 com.tencent.mf.uam
 com.tencent.nba2kx
 com.tencent.nfsonline
+com.tencent.ngr
 com.tencent.nikke
+com.tencent.nrc
 com.tencent.tmgp.WePop
 com.tencent.tmgp.bh3
 com.tencent.tmgp.cf
@@ -272,6 +275,7 @@ com.tencent.tmgp.sgame
 com.tencent.tmgp.speedmobile
 com.tencent.tmgp.sskgame
 com.tencent.tmgp.supercell.boombeach
+com.tencent.tmgp.supercell.clash
 com.tencent.tmgp.wuxia
 com.tencent.tmgp.yys.zqb
 com.tencent.toaa
@@ -294,8 +298,11 @@ com.xd.terraria
 com.xd.xdt
 com.xindong.torchlight
 com.xjskp.tv.hnsc
+com.xzy.styx
+com.xzy.xgst
 com.yinhan.hunter
 com.yongshi.tenojo
+com.zhanhuo.mw
 com.zlongame.mhmnz
 com.ztgame.bob
 com.ztgame.yyzy
@@ -314,6 +321,7 @@ net.kdt.pojavlaunch
 net.wargaming.wot.blitz
 org.flos.phira
 org.maxbytes.lfs
+seayoo.ggd
 sh.ppy.osulazer
 supercell.brawlstars
 supercell.clashofclans
