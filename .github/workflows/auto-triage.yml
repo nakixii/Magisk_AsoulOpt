@@ -68,7 +68,7 @@ jobs:
 
             const hasMdImage = /!\[.*?\]\(.*?\)/.test(body);
             const hasImageLink = /https?:\/\/\S+\.(png|jpe?g|gif|webp)(\?\S*)?/i.test(body);
-            const hasUserImages = /\buser-images\.githubusercontent\.com\/\S+/i.test(body);
+            const hasUserImages = /githubusercontent\.com\/\S+/i.test(body);
             const hasImage = hasMdImage || hasImageLink || hasUserImages;
 
             if (matched || !hasImage) {
