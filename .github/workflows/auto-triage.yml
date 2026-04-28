@@ -66,10 +66,11 @@ jobs:
               }
             }
 
-            const hasMdImage = /!\[.*?\]\(.*?\)/.test(body);
-            const hasImageLink = /https?:\/\/\S+\.(png|jpe?g|gif|webp)(\?\S*)?/i.test(body);
-            const hasUserImages = /\buser-images\.githubusercontent\.com\/\S+/i.test(body);
-            const hasImage = hasMdImage || hasImageLink || hasUserImages;
+            const hasMdImage = /!\[[^\]]*?\]\([^)]+\)/.test(body);
+            const hasHtmlImage = /<img\b[^>]*\bsrc=["'][^"']+["'][^>]*>/i.test(body);
+            const hasUserImages = /https?:\/\/(?:private-user-images|user-images)\.githubusercontent\.com\/\S+/i.test(body);
+            const hasAttachment = /https?:\/\/github\.com\/user-attachments\/assets\/\S+/i.test(body);
+            const hasImage = hasMdImage || hasHtmlImage || hasUserImages || hasAttachment;
 
             if (matched || !hasImage) {
               let commentBody = '';
