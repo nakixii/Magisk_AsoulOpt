@@ -21,6 +21,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 ```
 Nekootan.kfkj
 age.of.civilizations2.jakowski.lukasz
+ahf.dummynation
 brownmonster.app.game.rushrally3
 com.AlfaBravo.Combat
 com.BlackSaltGames.DREDGE
@@ -75,6 +76,7 @@ com.bilibili.warmsnow
 com.biligamekr.aggp
 com.bingkolo.kleins.cn
 com.blade.bd
+com.bladetw.bd
 com.blizzard.diablo.immortal
 com.blizzard.wtcg.hearthstone
 com.bscotch.crashlands2
@@ -84,6 +86,7 @@ com.chucklefish.stardewvalley
 com.cnvcs.xiangqi
 com.crunchyroll.gv.shogunshowdown.game
 com.crunchyroll.princessconnectredive
+com.cytx.td
 com.denachina.g13002010
 com.denchi.vtubestudio
 com.dfjz.moba
@@ -115,6 +118,7 @@ com.hermes.j1game
 com.hermes.mk
 com.herogame.gplay.punishing.grayraven.tw
 com.hg.lbw
+com.hottagames.nte
 com.hottagames.yh
 com.hottapkgs.hotta
 com.humo.yqqsqz.yw
@@ -136,6 +140,7 @@ com.kurogame.aki
 com.kurogame.haru
 com.kurogame.mingchao
 com.kurogame.wutheringwaves.global
+com.leiting.daluandou
 com.leiting.wf
 com.levelinfinite.sgameGlobal
 com.lilithgames.hgame.cn
@@ -208,6 +213,7 @@ com.nianticlabs.monsterhunter
 com.nianticproject.ingress
 com.oninou.FAPI
 com.papegames.infinitynikki
+com.pauloondra.zerostressking
 com.pi.czrxdfirst
 com.pinkcore.tkfm
 com.playdigious.deadcells.mobile
@@ -225,6 +231,7 @@ com.r2games.myhero.bilibili
 com.rayark.cytus2
 com.rayark.implosion
 com.rekoo.pubgm
+com.riichicity.happywoods
 com.riotgames.league.teamfighttactics
 com.riotgames.league.wildrift
 com.roblox.client
@@ -321,7 +328,6 @@ net.kdt.pojavlaunch
 net.wargaming.wot.blitz
 org.flos.phira
 org.maxbytes.lfs
-seayoo.ggd
 sh.ppy.osulazer
 supercell.brawlstars
 supercell.clashofclans
