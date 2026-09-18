@@ -91,6 +91,8 @@ com.crunchyroll.princessconnectredive
 com.cytx.td
 com.denachina.g13002010
 com.denchi.vtubestudio
+com.devsisters.ck
+com.devsisters.cos
 com.dfjz.moba
 com.dgames.g15002002
 com.digitalextremes.warframemobile
@@ -152,6 +154,7 @@ com.lilithgames.solarland.android.cn
 com.littleleogames.astreasixsidedoracles
 com.longe.allstarhmt
 com.madfingergames.legends
+com.megacrit.sts2re
 com.miHoYo.GenshinImpact
 com.miHoYo.Nap
 com.miHoYo.Yuanshen
@@ -160,6 +163,7 @@ com.miHoYo.enterprise.NGHSoD
 com.miHoYo.hkrpg
 com.miHoYo.ys
 com.miHoYo.zenless
+com.mindblocks.blocks
 com.minidragon.idlefantasy
 com.miniworldgame.creata.vn
 com.miraclegames.farlight84
@@ -217,6 +221,7 @@ com.nexon.kartdrift
 com.nexon.mdnf
 com.nexon.mod
 com.nianticlabs.monsterhunter
+com.nianticlabs.pokemongo
 com.nianticproject.ingress
 com.oninou.FAPI
 com.papegames.infinitynikki
@@ -235,6 +240,7 @@ com.pwrd.huanta
 com.pwrd.p5x
 com.pwrd.persona5x.laohu
 com.r2games.myhero.bilibili
+com.racoondigi.jqys
 com.rawfury.kingdom2crowns
 com.rayark.cytus2
 com.rayark.implosion
@@ -306,6 +312,7 @@ com.unity.mmd
 com.valvesoftware.cswgsm
 com.valvesoftware.source
 com.vng.pubgmobile
+com.wg.wowslegends
 com.xd.TLglobal
 com.xd.dxlzz.taptap
 com.xd.rotaeno.googleplay
